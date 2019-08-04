@@ -4,7 +4,8 @@ class Landing extends Component {
     render() {
         return (
             <div>
-                <h1>Landing page</h1>
+                <h1>Welcome to my portfolio site</h1>
+                <p>I created this site with React</p>
             </div>
         )
     }
