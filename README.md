@@ -1,31 +1,13 @@
-
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-Portfolio
-Portfolio-app - created using ReactJS
-
 ## Prerequisites
 You need to have NodeJS and NPM installed in your computer. If you don't have them installed, installed them from here: https://nodejs.org/en/download/
 
 ## How to run the project
-✭ Fork the repository
-✭ Clone your forked repository
-✭ Install all the dependencies using this command: npm install
-✭ Run the project using this command: npm start
+Fork the repository
+Clone your forked repository
+Install all the dependencies using this command: npm install
+Run the project using this command: npm start
 
-### Create your own portfolio
+## Create your own portfolio
 To edit, update or add new component you will find a componenet directory inside src. And inside component directory there is individual directory for every individula component.
 Enjoy coding... 
 
@@ -54,3 +36,18 @@ SOFTWARE.
 Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
+
+### `npm test`
+Portfolio
+Portfolio-app - created using ReactJS
