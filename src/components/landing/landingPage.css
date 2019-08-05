@@ -1,0 +1,62 @@
+.Landing-grid {
+    background: #c31432;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-align: center;
+    /* position: fixed; */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.avatar-img {
+    height: 250px;
+    padding-top: 5em;
+}
+
+.banner-text {
+    background-color: #240b36;
+    
+    opacity: .8;
+    width: 75%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.banner-text h1 {
+    font-size: 56px;
+    font-weight: bold;
+    color: blanchedalmond;
+    margin: 0px;
+}
+
+.banner-text h2 {
+    font-size: 30px;
+    color: blanchedalmond;
+}
+
+.banner-text p {
+    font-size: 20px;
+    color: blanchedalmond;
+    /* padding: 1em; */
+}
+
+.banner-text hr {
+    border-top: 5px double white;
+    width: 50%;
+    margin: auto;
+    padding: 1 em 0em 1em 0em;
+}
+
+.social-icon {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto; 
+}
+.social-icon i {
+    color: aliceblue;
+    font-size: 5em;
+    padding: 0em 0em .5em 0em;
+}
