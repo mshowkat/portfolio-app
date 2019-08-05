@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="demo-big-content">
       <Layout>
-        <Header title="Title" className='header-color' scroll>
+        <Header title="M Showkat" className='header-color' scroll>
           <Navigation className='social'>
             <a href='https://www.linkedin.com/in/mshowkat/' rel='noopener noreferrer' target='blank'>
               <i class="fab fa-linkedin" aria-hidden='true'></i>
@@ -24,7 +24,7 @@ function App() {
             </a>
           </Navigation>
         </Header>
-        <Drawer title="Title">
+        <Drawer title="Mshowkat" className='drawer'>
           <Navigation>
             <Link to= "/">Home</Link>
             <Link to="/about">About me</Link>
