@@ -14,7 +14,7 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 Portfolio
-My Portfolio - created using ReactJS
+Portfolio-app - created using ReactJS
 
 ## Prerequisites
 You need to have NodeJS and NPM installed in your computer. If you don't have them installed, installed them from here: https://nodejs.org/en/download/
@@ -29,10 +29,10 @@ You need to have NodeJS and NPM installed in your computer. If you don't have th
 To edit, update or add new component you will find a componenet directory inside src. And inside component directory there is individual directory for every individula component.
 Enjoy coding... 
 
-# LICENSE
-# MIT License
+## LICENSE
+## MIT License
 
-## Copyright (c) 2019 Showkat.dev
+### Copyright (c) 2019 Showkat.dev
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
