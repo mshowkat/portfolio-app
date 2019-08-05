@@ -2,10 +2,10 @@
 You need to have NodeJS and NPM installed in your computer. If you don't have them installed, installed them from here: https://nodejs.org/en/download/
 
 ## How to run the project
-Fork the repository
-Clone your forked repository
-Install all the dependencies using this command: npm install
-Run the project using this command: npm start
+- Fork the repository
+- Clone your forked repository
+- Install all the dependencies using this command: npm install
+- Run the project using this command: npm start
 
 ## Create your own portfolio
 To edit, update or add new component you will find a componenet directory inside src. And inside component directory there is individual directory for every individula component.
