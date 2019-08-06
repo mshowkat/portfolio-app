@@ -13,32 +13,33 @@
 
 .avatar-img {
     height: 250px;
-    padding-top: 5em;
+    /* padding-top: 10px; */
 }
 
 .banner-text {
     background-color: #240b36;
     
     opacity: .8;
-    width: 75%;
+    width: 65%;
+    height: 55%;
     margin: auto;
     border-radius: 10px;
 }
 
 .banner-text h1 {
-    font-size: 56px;
+    font-size: 46px;
     font-weight: bold;
     color: blanchedalmond;
     margin: 0px;
 }
 
 .banner-text h2 {
-    font-size: 30px;
+    font-size: 25px;
     color: blanchedalmond;
 }
 
 .banner-text p {
-    font-size: 20px;
+    font-size: 18px;
     color: blanchedalmond;
     /* padding: 1em; */
 }
@@ -53,11 +54,11 @@
 .social-icon {
     display: flex;
     justify-content: space-between;
-    width: 50%;
+    width: 40%;
     margin: auto; 
 }
 .social-icon i {
     color: aliceblue;
-    font-size: 5em;
+    font-size: 40px;
     padding: 0em 0em .5em 0em;
 }

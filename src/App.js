@@ -27,8 +27,8 @@ function App() {
         <Drawer title="Mshowkat" className='drawer'>
           <Navigation>
             <Link to= "/">Home</Link>
-            <Link to="/about">About me</Link>
-            <Link to="/resume">Resume</Link>
+            <a href='https://mshowkat.github.io/resume/' rel='noopener noreferrer' target='blank'> Blog </a>
+            <a href='https://mshowkat.github.io/resume/' rel='noopener noreferrer' target='blank'> Resume </a>
             <Link to="/projects">Projects</Link>
             <Link to="/contact">Contact Me</Link>
           </Navigation>
