@@ -7,7 +7,7 @@ const Cards = props => {
         <div className='container'>
             <Card shadow={20} style={{ width: '512px', margin: 'auto' }}>
                 
-                <img src={props.imgSrc} className='card-Img' />
+                <img src={props.imgSrc} alt='card images' className='card-Img' />
                 <CardActions border>
                     <Button colored>{props.name}</Button>
                 </CardActions>
