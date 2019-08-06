@@ -2,7 +2,7 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mshowkat.github.io/portfolio-app/",
+  "homepage": "https://mshowkat.github.io/portfolio-app/build",
   "dependencies": {
     "gh-pages": "^2.1.0",
     "react": "^16.8.6",
