@@ -11,16 +11,16 @@ function App() {
         <Header title="M Showkat" className='header-color' scroll>
           <Navigation className='social'>
             <a href='https://www.linkedin.com/in/mshowkat/' rel='noopener noreferrer' target='blank'>
-              <i class="fab fa-linkedin" aria-hidden='true'></i>
+              <i className="fab fa-linkedin" aria-hidden='true'></i>
             </a>
             <a href='https://github.com/mshowkat/' rel='noopener noreferrer' target='blank'>
-              <i class="fab fa-github" aria-hidden='true'></i>
+              <i className="fab fa-github" aria-hidden='true'></i>
             </a>
             <a href='https://www.fb.com/mh.showkat.1' rel='noopener noreferrer' target='blank'>
-              <i class="fab fa-facebook-square"></i>
+              <i className="fab fa-facebook-square"></i>
             </a>
             <a href='https://twitter.com/justshowkat' rel='noopener noreferrer' target='blank'>
-              <i class="fab fa-twitter-square" aria-hidden='true'></i>
+              <i className="fab fa-twitter-square" aria-hidden='true'></i>
             </a>
           </Navigation>
         </Header>
